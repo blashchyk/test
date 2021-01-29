@@ -1,0 +1,33 @@
+{
+    "creator": "blashchyk",
+    "creatorEmail": "dmitriy.blashchyk@gmail.com",
+    "parentSite": "papercoach.net",
+    "nameNewSite": "test.net266",
+    "abbreviation": "tstn",
+    "pathLogo": "qwasdef121saalogo/wmdfm_logo.png",
+    "mobileLogo": "test.png",
+    "pathFavicon": "jhg8dnbv6nj543fav/wmdfm_favicon.ico",
+    "phoneNumber": "+18777842648",
+    "idSales": "168",
+    "idCollectors": "169",
+    "email": "support@writemydissertationfor.me",
+    "parentPriceId": "5",
+    "messenger": false,
+    "emailWebMaster": false,
+    "pages": {
+        "blog": false,
+        "samples": false,
+        "faq": false,
+        "reviews": false,
+        "services": false,
+        "discounts": false,
+        "essays": false,
+        "single-essay": false,
+        "essays-list-by-category": false,
+        "single-topic.blade":  false,
+        "single-review": false,
+        "single-post": false,
+        "single-landing": false,
+        "research-paper-topics": false
+    }
+}
