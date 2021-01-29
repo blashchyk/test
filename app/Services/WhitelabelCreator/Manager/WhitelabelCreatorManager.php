@@ -19,15 +19,9 @@ use Illuminate\Support\Facades\Validator;
 class WhitelabelCreatorManager implements WhitelabelCreatorManagerInterface
 {
     const PARENT = [
-        4 => 'speedypaper.com',
-        5 => 'papercoach.net',
-        10 => 'rocketpaper.net',
-        25 => 'writepaperfor.me',
-        32 => 'resume101.org',
-        37 => 'nursingessaywriting.com',
-        44 => 'mypaperedit.com',
-        60 => 'eduvinci.com',
-        63 => 'homeworkfor.me'
+        4 => 'test.com',
+        5 => 'test2.com',
+        10 => 'test3.com',
     ];
 
     private $mongoClients;
